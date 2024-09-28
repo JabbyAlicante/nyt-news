@@ -1,0 +1,2 @@
+.home{flex-direction:column;gap:20px;padding:1rem;display:flex}.home .article{background:#a58b64;border:1px solid #cfcfcf;border-radius:4px;margin-bottom:3rem;padding:2rem}.home .article:hover{box-shadow:3px 3px 4px #000}.home .article img{width:100%}#home-content-data{grid-template-columns:repeat(3,1fr);gap:50px;display:grid}#home-h1{color:#f0f8ff;background:#5b0000;border-radius:.5rem;justify-items:center;width:18%;padding:.3em .5em;font-size:3rem;display:grid;box-shadow:1px 1px 2px #bab5b5,0 0 25px #838383,0 0 5px silver}
+/*# sourceMappingURL=index.5a777a8c.css.map */
