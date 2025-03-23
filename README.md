@@ -24,7 +24,7 @@ NYT-News is a clone of the New York Times website created for educational purpos
 1. Open the project in your browser.
 2. The homepage will display real-time news articles fetched from the New York Times API.
 3. Click on an article to read more details directly from the New York Times.
-## Important Notice!!
+## 🚧 Important Notice!!
 This project is for educational purposes only and is not affiliated with The New York Times.
 ## 🌐 Live Demo  
 Check out the live project here: [NYT-News](https://jabbyalicante.github.io/nyt-news/)
