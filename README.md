@@ -3,9 +3,13 @@
 NYT-News is a clone of the New York Times website created for educational purposes. The project demonstrates the use of the New York Times API to fetch and display real-time news articles. The focus was on creating a responsive and user-friendly design using HTML and CSS.
 ## 🚀 Features
 ✅ Fetches real-time news articles using the New York Times API
+
 ✅ Displays news articles in a clean and responsive layout
+
 ✅ Simple and intuitive user interface
+
 ✅ Designed with HTML and CSS for a consistent and modern look
+
 ## 🛠️ Tech Stack  
 | **Category** | **Technology** |  
 |-------------|----------------|  
