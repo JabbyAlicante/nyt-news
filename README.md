@@ -22,4 +22,6 @@ NYT-News is a clone of the New York Times website created for educational purpos
 3. Click on an article to read more details directly from the New York Times.
 ## Important Notice!!
 This project is for educational purposes only and is not affiliated with The New York Times.
+## 🌐 Live Demo  
+Check out the live project here: [NYT-News](https://jabbyalicante.github.io/nyt-news/)
 
